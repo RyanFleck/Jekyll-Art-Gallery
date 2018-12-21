@@ -1,3 +1,39 @@
-markdown: kramdown
-pygments: true
-paginate: 3
+title:              Jekyll-Bootstrap
+
+# Versioning
+current_version: 1.2.1
+
+author:
+  name:             username
+  email:            user@domain.com
+  github:           username
+  twitter:          username
+
+# Dependencies
+markdown:           rdiscount
+highlighter:        pygments
+
+# Permalinks
+permalink:          pretty
+
+# Server
+source:             ./source
+destination:        ./static
+
+port:               9002
+baseurl:            ""
+#url:               /
+
+# exclude this stuff when building the static site
+exclude:            ["less",".gitignore","README.md","config.codekit"]
+
+
+## CUSTOM VARS
+
+#ga_id:             ##-########-###
+site_name:          Jekyll-Bootstrap
+site_description :  Bare Bones Jekyll-Bootstrap starting point
+site_copyright:     Copyright (c) 2014 @aaronkwhite
+site_url:           http://yoururl.com
+site_email:         site@domain.com
+site_phone:         (555) 555-1234 
