@@ -21,7 +21,7 @@ source:             ./source
 destination:        ./static
 
 port:               9002
-baseurl:            ""
+baseurl:            "/Jekyll-Art-Gallery" #Remove if serving as user.github.io
 #url:               /
 
 # exclude this stuff when building the static site
