@@ -1351,6 +1351,7 @@ input, select, textarea {
 
 			.poptrox-popup .caption {
 				display: none !important;
+                display: block;
 			}
 
 			.poptrox-popup .closer,

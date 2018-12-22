@@ -4,7 +4,7 @@ Markup now based on the [Multiverse](https://html5up.net/multiverse) HTML5UP the
 
 Uses an **artwork** jekyll collection to store objects with a link to an image file, short description, and article.
 
-
+Sample art nabbed from <https://www.instagram.com/derrierejarjarbinks/>
 
 # minima
 
